@@ -1,0 +1,12 @@
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\bin\Debug\net6.0\Repository.dll
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\bin\Debug\net6.0\Repository.pdb
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.dll
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.pdb
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\PersonalProjects\Dummy\Calculator.Api\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
